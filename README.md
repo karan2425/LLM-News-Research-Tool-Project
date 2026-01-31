@@ -14,3 +14,5 @@ Ask natural language questions about Nvidia and HDFC Bank using live financial d
 >Pinecone
 
 >Python
+
+link-http://localhost:8501
